@@ -1,0 +1,10 @@
+<userdata createuser="false">userdata内容   
+      <dataconnection name="here testing">   
+          <server>localhost</server>   
+          <uid>sa</uid>   
+          <pwd />   
+      </dataconnection>   
+      <net>   
+          <name>jiayuan</name>   
+      </net>   
+  </userdata>
